@@ -1,0 +1,5 @@
+D:\QAdotnet\CreditCardPayment\CreditCardPayment\obj\Debug\CreditCardPayment.csprojResolveAssemblyReference.cache
+D:\QAdotnet\CreditCardPayment\CreditCardPayment\bin\Debug\CreditCardPayment.dll
+D:\QAdotnet\CreditCardPayment\CreditCardPayment\bin\Debug\CreditCardPayment.pdb
+D:\QAdotnet\CreditCardPayment\CreditCardPayment\obj\Debug\CreditCardPayment.dll
+D:\QAdotnet\CreditCardPayment\CreditCardPayment\obj\Debug\CreditCardPayment.pdb
